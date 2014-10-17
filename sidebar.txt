@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[okx:home|Door43 (okx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-okx|d43-okx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-okx/archive/master.zip|d43-okx.zip]]
+
+**Recent Changes**
+{{changes>ns = okx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/okx|Ethnologue data]]
+
